@@ -1,10 +1,12 @@
 # Lab Proof — Reflection Skills
 
+Repo: https://github.com/np8350-prog/reflection-skills-lab
+
 ## Skills installed
 
-- `.agents/skills/post-task-retro/SKILL.md`
-- `.agents/skills/error-autopsy/SKILL.md`
-- `.agents/skills/weekly-skill-review/SKILL.md`
+- [`.agents/skills/post-task-retro/SKILL.md`](.agents/skills/post-task-retro/SKILL.md)
+- [`.agents/skills/error-autopsy/SKILL.md`](.agents/skills/error-autopsy/SKILL.md)
+- [`.agents/skills/weekly-skill-review/SKILL.md`](.agents/skills/weekly-skill-review/SKILL.md)
 
 ## Trigger tuning
 
