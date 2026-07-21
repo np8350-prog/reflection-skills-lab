@@ -17,9 +17,11 @@ Run this right after a task is done. Output is always 4 lines, no more.
    - **Next time**: one specific change for the next similar task.
 3. Keep each line under 20 words. No filler, no praise padding.
 4. Do not turn this into a full report. If the user wants more depth, that's a different skill.
+5. Append the output to `~/reflection-log.md`, under a new dated heading, above the existing entries (most recent first). Include which repo or lab this came from.
 
 ## Output format
 
+### [date] — [repo/lab name]
 Goal: ...
 What worked: ...
 What snagged: ...

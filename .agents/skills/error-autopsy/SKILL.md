@@ -14,9 +14,11 @@ A fast, reusable way to diagnose a failure. Not an incident report, not a full p
 3. Name the smallest possible check that would confirm or kill that hypothesis (a log line, a single test, a print statement, a config check).
 4. If the check fails the hypothesis, form the next hypothesis and repeat step 3. Don't stack multiple hypotheses at once.
 5. Once confirmed, write one line: root cause. Then one line: the fix.
+6. Append the output to `~/reflection-log.md`, under a new dated heading, above the existing entries (most recent first). Include which repo or lab this came from.
 
 ## Output format
 
+### [date] — [repo/lab name]
 Symptom: ...
 Hypothesis: ...
 Check: ...

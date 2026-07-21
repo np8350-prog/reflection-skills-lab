@@ -9,11 +9,12 @@ Turns a pile of retros and error notes into one clear thing to practice next wee
 
 ## Steps
 
-1. Ask for or gather the week's retros and error notes (from post-task-retro and error-autopsy outputs, or whatever notes the user has).
-2. Re-read all of them together, don't process one at a time.
-3. Cluster them into themes. Look for the same snag or mistake showing up more than once.
-4. Pick one theme. The one that repeated most, or cost the most time.
-5. State one deliberate practice focus for next week, specific and actionable, not vague ("get better at X" is not enough).
+1. Read `~/reflection-log.md`. This is the running log across all repos and labs, not just the current one.
+2. Pull all entries from roughly the last 7 days (check the dated headings).
+3. Re-read them together, don't process one at a time.
+4. Cluster them into themes. Look for the same snag or mistake showing up more than once, even across different repos.
+5. Pick one theme. The one that repeated most, or cost the most time.
+6. State one deliberate practice focus for next week, specific and actionable, not vague ("get better at X" is not enough).
 
 ## Output format
 
@@ -25,4 +26,5 @@ Why this one: ...
 ## Boundaries
 
 - Do not list every issue. Pick one, the highest-leverage one.
-- If there's only one entry to review, say there isn't enough data yet instead of forcing a theme.
+- If `~/reflection-log.md` doesn't exist yet, or has fewer than 2 entries in the window, say there isn't enough data yet instead of forcing a theme.
+- Do not modify or delete existing log entries. Read-only for this skill.
